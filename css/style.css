@@ -1,11 +1,11 @@
 body{
     background-color: #262626;
     text-align: center;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Bangers', cursive;
 }
 
 #teamName{
-    background-color: #bd3838;
+    background-color: #6d1f1f;
     color: white;
     font-size: 54px;
     padding: 5%;
@@ -14,7 +14,7 @@ body{
 .card {
     padding-top: 20px;
     margin: 10px 0 20px 0;
-    background-color: rgba(178, 188, 190, 0.2);
+    background-color: #6d1f1f;
     border-top-width: 0;
     border-bottom-width: 2px;
     -webkit-border-radius: 3px;
@@ -32,12 +32,12 @@ body{
     margin: 0;
     font-size: 36px;
     line-height: 42px;
-    color: #d4d0d0;
+    color: white;
     
 }
 
 .role{
-    color: #d4d0d0;
+    color: white;
     font-size: 32px;
 }
 
@@ -51,7 +51,7 @@ body{
     margin: 8px 14px 0 14px;
     font-size: 24px;
     line-height: 28px;
-    color: #5f5e5e;
+    color: black;
     background-color: #3a3a3a;
     padding-bottom: 20px;
 }
